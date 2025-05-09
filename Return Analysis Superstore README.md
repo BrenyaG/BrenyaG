@@ -1,4 +1,4 @@
-# Tableau Project: Superstore Analysis
+# Superstore Analysis
 
 This analysis was created to review the superstore’s operations, providing insight for the purpose of increasing profitability and to avoid bankruptcy.  
 The analysis was done in three parts:  (1) Profits & losses (2) Advertisement Strategies (3) Insight on Products Returns.  Data Visualization was performed with Tableau Desktop Public.
